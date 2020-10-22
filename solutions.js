@@ -1,4 +1,10 @@
 // ***** Level 01 - cellBlockA *****
+    // Either change value of x or y in the for cycles so map border is moved
+    // y was originally 3 in this one
+        // for (y = 5; y <= map.getHeight() - 10; y++) {
+        //     map.placeObject(5, y, 'block');
+        //     map.placeObject(map.getWidth() - 5, y, 'block');
+        // }
 
 // ***** Level 02 - theLongWayOut - part 1 *****
 
