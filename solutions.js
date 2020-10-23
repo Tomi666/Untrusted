@@ -71,6 +71,12 @@
         // me.move('left')
 
 // ***** Level 11 - robot *****
+    // Made robot go right, then we he can't move right, he will move down
+        //             if (me.canMove('right')) {
+        //             	me.move('right');
+        //             } else if (me.canMove('down')) {
+        //             	me.move('down');
+        //             }
 
 // ***** Level 12 - robotNav *****
 
