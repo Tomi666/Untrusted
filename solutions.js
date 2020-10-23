@@ -14,6 +14,9 @@
 // ***** Level 02 - theLongWayOut - part 2 *****
 
 // ***** Level 03 - validationEngaged *****
+    // Changed the x parameter in placeObject in the first for loop
+    // Originally x was 5, now it's 3
+        // map.placeObject(3, y, 'block');
 
 // ***** Level 04 - multiplicity *****
 
