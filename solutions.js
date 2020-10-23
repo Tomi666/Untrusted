@@ -1,3 +1,4 @@
+
 // ***** Level 01 - cellBlockA *****
     // Either change value of x or y in the for cycles so map border is moved
     // y was originally 3 in this one
@@ -14,10 +15,18 @@
 // ***** Level 02 - theLongWayOut - part 2 *****
 
 // ***** Level 03 - validationEngaged *****
+    // Changed the x parameter in placeObject in the first for loop
+    // Originally x was 5, now it's 3
+        // map.placeObject(3, y, 'block');
 
 // ***** Level 04 - multiplicity *****
+    // Placed another exit 10 rows below the original
+    // Original was at get.Width() -5, 5
+        // map.placeObject(map.getWidth() -5, 15, 'exit');
 
 // ***** Level 05 - minesweeper *****
+    // Changed color of mines to black so they are distinct from empty blocks
+        // map.setSquareColor(x, y, '#000');
 
 // ***** Level 06 - drones101 *****
 
