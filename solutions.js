@@ -52,6 +52,10 @@
         // map.getPlayer().setPhoneCallback(functionList["generateForest"]);
 
 // ***** Level 09 - fordingTheRiver *****
+    // Made a function for phone use, which changes the direction of boat to up
+        // 	map.getPlayer().setPhoneCallback(function () {
+        //     	raftDirection = 'up';
+        //  })
 
 // ***** Level 10 - ambush - part 1 *****
 
