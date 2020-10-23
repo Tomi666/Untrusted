@@ -34,6 +34,16 @@
         //     map.placeObject(map.getWidth()-8, 13, 'block');
 
 // ***** Level 07 - colors *****
+    // Made a random number generator, each time I use phone it picks a number
+    // If that number is 1 or 2 or 3 I become red, if 4 or 5 or 6 I become green, and if 7 or 8 or 9 I become yellow
+        //         randomInt = Math.floor(Math.random() * 10);
+        //         if (randomInt === 1 || randomInt === 2 || randomInt === 3) {
+        //         	player.setColor('#f00');
+        //         } else if (randomInt === 4 || randomInt === 5 || randomInt === 6) {
+        //         	player.setColor('#0f0');
+        //         } else if (randomInt === 7 || randomInt === 8 || randomInt === 9) {
+        //         player.setColor('#ff0');
+        //         }
 
 // ***** Level 08 - intoTheWoods *****
 
