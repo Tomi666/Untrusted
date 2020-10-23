@@ -28,6 +28,10 @@
         // map.setSquareColor(x, y, '#000');
 
 // ***** Level 06 - drones101 *****
+    // Placed 3 more blocks on the map and the drone got stuck in it
+        //     map.placeObject(map.getWidth()-8, 11, 'block');
+        //     map.placeObject(map.getWidth()-9, 12, 'block');
+        //     map.placeObject(map.getWidth()-8, 13, 'block');
 
 // ***** Level 07 - colors *****
 
