@@ -7,6 +7,9 @@
         // }
 
 // ***** Level 02 - theLongWayOut - part 1 *****
+    // Placed another exit 2 blocks away from the original exit
+    // Original exit was on getWidth()-5 and getheight()-4
+        // map.placeObject(map.getWidth()-7, map.getHeight()-4, 'exit');
 
 // ***** Level 02 - theLongWayOut - part 2 *****
 
