@@ -1,3 +1,4 @@
+
 // ***** Level 01 - cellBlockA *****
     // Either change value of x or y in the for cycles so map border is moved
     // y was originally 3 in this one
@@ -96,6 +97,17 @@
         //             }
 
 // ***** Level 13 - robotMaze *****
+    // Neither this :(
+        // if( typeof this.cdir == 'undefined' ) this.cdir = 0;
+        // var dir = ['right', 'up', 'left', 'down'];
+        // var ln = dir.length;
+        //
+        // if( me.canMove(dir[(this.cdir+1)%ln]) )
+        // 	this.cdir = (this.cdir+1)%ln;
+        // else if( !me.canMove(dir[this.cdir]) )
+        // 	this.cdir = (this.cdir+ln-1)%ln;
+        //
+        // me.move(dir[this.cdir]);
 
 // ***** Level 14 - crispsContest *****
 
