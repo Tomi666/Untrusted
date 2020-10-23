@@ -19,6 +19,9 @@
         // map.placeObject(3, y, 'block');
 
 // ***** Level 04 - multiplicity *****
+    // Placed another exit 10 rows below the original
+    // Original was at get.Width() -5, 5
+        // map.placeObject(map.getWidth() -5, 15, 'exit');
 
 // ***** Level 05 - minesweeper *****
 
