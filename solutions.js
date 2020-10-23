@@ -46,6 +46,10 @@
         //         }
 
 // ***** Level 08 - intoTheWoods *****
+    // Placed generate forest in setPhoneCallback, so when I use phone,
+    // the forest changes but the player position doesn't.
+    // So I just keep change forest and walk until I get to exit
+        // map.getPlayer().setPhoneCallback(functionList["generateForest"]);
 
 // ***** Level 09 - fordingTheRiver *****
 
