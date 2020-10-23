@@ -24,6 +24,8 @@
         // map.placeObject(map.getWidth() -5, 15, 'exit');
 
 // ***** Level 05 - minesweeper *****
+    // Changed color of mines to black so they are distinct from empty blocks
+        // map.setSquareColor(x, y, '#000');
 
 // ***** Level 06 - drones101 *****
 
