@@ -7,11 +7,12 @@
         // }
 
 // ***** Level 02 - theLongWayOut - part 1 *****
+    // Didn't change anything here
+
+// ***** Level 02 - theLongWayOut - part 2 *****
     // Placed another exit 2 blocks away from the original exit
     // Original exit was on getWidth()-5 and getheight()-4
         // map.placeObject(map.getWidth()-7, map.getHeight()-4, 'exit');
-
-// ***** Level 02 - theLongWayOut - part 2 *****
 
 // ***** Level 03 - validationEngaged *****
     // Changed the x parameter in placeObject in the first for loop
@@ -58,10 +59,16 @@
         //  })
 
 // ***** Level 10 - ambush - part 1 *****
+    // Red drones try to move towards the exit but can't
+        // moveToward(me, 'exit');
 
 // ***** Level 10 - ambush - part 2 *****
+    // Didn't change this one, yellow drones just go left, some can't cuz they are blocking eachother's way
 
 // ***** Level 10 - ambush - part 3 *****
+    // Green drones also move left, but the bottom one at least, the other 2 are blocked by other drones
+    // And so the bottom row is clear, no drone heading for me, at this point all of them are stuck
+        // me.move('left')
 
 // ***** Level 11 - robot *****
 
